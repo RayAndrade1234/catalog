@@ -14,9 +14,9 @@ public class GetMockEnitiy{
 		p.setId(4);
 		p.setProductName("Sleg-o-matic v:" + iKey);
 		p.setDescription("The Ebola virus is killing 70 of the people who contract the disease the World Health Organization said Tuesday and as many as 10000 new cases a week could be reported by early December");
-		p.setPhotoPath("Me in the Pix");
-		p.setRegularPrice(100);
-		p.setSalePrice(200);
+		p.setPhotoPath("/storage/emulated/0/DCIM/Camera/20141016_001240.jpg");
+		p.setRegularPrice(12345);
+		p.setSalePrice(4321);
 		int [] i = { 1,2,3,4,5 };
 		p.setColors(i);
 		
