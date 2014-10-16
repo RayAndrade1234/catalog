@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inventory Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_make_json">MakeJSONActivity</string>
+    <string name="title_activity_take_picture">TakePictureActivity</string>
+    <string name="title_activity_form_entry">FormEntryActivity</string>
+
+    <string name="lable_take_photo">Take Photo</string>
+    <string name="lable_back">Back</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_test_target">TestTargetActivity</string>
+    
+    <string name="lable_id">Id#</string>
+    <string name="lable_product_name">Product</string>
+    <string name="lable_description">Description</string>
+    <string name="lable_regular_price">Regular Price</string>
+    <string name="lable_sale_price">Sale Price</string>
+    <string name="lable_photo">Product Image</string>
+    <string name="lable_colors">Avalable Colors</string>
+    <string name="lable_stores">Store Locations</string>
+    <string name="button_save">save</string>
+    <string name="button_take_picture">Take Picture</string>
+    
+
+</resources>

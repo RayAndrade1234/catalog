@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/edit_description"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical" >
+    <TextView
+        android:id="@+id/tv_frag_edit_discription" android:text="@string/lable_description" 
+        android:layout_width="wrap_content" android:layout_height="wrap_content" />
+     
+    <!-- android:imeOptions=actionDone: configures the soft keyboard to show a Done key in place of the Enter key -->
+    <EditText
+        android:id="@+id/et_frag_edit_discription"
+        android:layout_width="match_parent"  android:layout_height="wrap_content" 
+        android:inputType="text"
+        android:imeOptions="actionDone" />
+    
+
+</LinearLayout>
